@@ -1,4 +1,4 @@
-# CardanoNFTgenerator_NMKR
+# CardanoNFTgenerator for NMKR
 NFT image generator designed for use with Cardano and NMKR
 
 
